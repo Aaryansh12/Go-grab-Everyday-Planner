@@ -24,11 +24,14 @@ To get started with the project, follow these steps:
    git clone https://github.com/your-username/everyday-planner.git
    ```
 2. Navigate to the project directory:
+   ```bash
    cd everyday-planner
-3. Instal dependencies:
-    npm install
-4. Start the Application:
-    npm run dev
+4. Instal dependencies:
+   ```bash
+   npm install
+6. Start the Application:
+   ```bash
+   npm run dev
 
 ## Learnings
 This project is a great starting point for:
